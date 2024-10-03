@@ -1,6 +1,5 @@
 
-👋 Olá! Eu sou Alex S Jesus
-
+👋 Olá! Eu sou Alex
 
 🌱 Experiencia na Linguagem de Programação Python 3
 
