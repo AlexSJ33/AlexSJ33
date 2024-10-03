@@ -1,9 +1,9 @@
 
 👋 Olá! Eu sou Alex S Jesus
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-🌱 Atualmente estou aprendendo Linguagem de Programação Python 3
+🌱 Experiencia na Linguagem de Programação Python 3
+
 
 📫 contato: alexs.j@hotmail.com
 
