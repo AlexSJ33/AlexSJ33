@@ -1,7 +1,11 @@
 
 👋 Olá! Eu sou Alex
 
-🌱 Experiencia na Linguagem de Programação Python 3
+## Bem vindo ao meu perfil GitHub 👋
+
+🌱 Experiencia nas Linguagens de Programação:  Python 3 e Javascript
+
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web
 
 
 📫 contato: alexs.j@hotmail.com
@@ -12,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
        
 
 <div>
