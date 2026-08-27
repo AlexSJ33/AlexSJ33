@@ -20,11 +20,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-       
-
-<div>
-<a href="https://github.com/AlexSJ33">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSJ33&layout=compact&langs_count=7&theme=dracula"/>
-
-
-</div>
